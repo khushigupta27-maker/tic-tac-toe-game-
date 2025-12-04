@@ -1,2 +1,3 @@
-# tic-tac-toe-game-
+# tic-tac-toe-game
 this is my first git repository.
+Author = khushi 
